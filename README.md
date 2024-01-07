@@ -12,6 +12,5 @@ Now, you will see a whitelabel classic error page for a spring boot app. To chec
 
 [http://localhost:8080/check?url=https://www.google.com](http://localhost:8080/check?url=https://www.google.com)
 
-What is essentially happening in the above URL is that you are making a get request to route called "check" which expects a url as its query parameter and here you can specify any web application URL to test if it is down or up
-
+What is essentially happening in the above URL is that you are making a get request to route called "check" which expects a url as its query parameter and here you can specify any web application URL to test if it is down or up. In this case we are testing [https://www.google.com](https://www.google.com)
 
